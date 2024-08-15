@@ -1,2 +1,2 @@
-# dotfiles
-Collection of dotfiles for macOS and Linux.
+# .files
+A collection of dotfiles for macOS and Linux.
